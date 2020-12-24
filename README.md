@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning for Standard Plane Localization in 3D US.
+# Reinforced Framework for Standard Plane Localization in 3D US.
 
 This repository is the implementation of the deep reinforced framework for standard plane localization by Haoran Dou in MUSIC Lab at Shenzhen University.
 
