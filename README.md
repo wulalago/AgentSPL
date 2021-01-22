@@ -1,10 +1,13 @@
-# Reinforced Framework for Standard Plane Localization in 3D US.
+# Reinforcement Learning for Standard Plane Localization in 3D US.
 
 This repository is the implementation of the deep reinforced framework for standard plane localization by Haoran Dou in MUSIC Lab at Shenzhen University.
 
 **Agent with Warm Start and Active Termination for Plane Localization in 3D Ultrasound**  
 *Haoran Dou, Xin Yang, Jikuan Qian, Wufeng Xue, Hao Qin, Xu Wang, Lequan Yu, Shujun Wang, Yi Xiong, Pheng-Ann Heng, and Dong Ni.*  
 International Conference on Medical Image Computing and Computer Assisted Intervention, 2019. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_33) [[arXiv]](https://arxiv.org/abs/1910.04331)
+**Agent with Warm Start and Adaptive Dynamic Termination for Plane Localization in 3D Ultrasound**
+*Xin Yang, Haoran Dou, Ruobing Huang, Wufeng Xue, Yuhao Huang, Jikuan Qian, Yuanji Zhang, Huanjia Luo, Huizhi Guo, Tianfu Wang, Yi Xiong, and Dong Ni.*  
+Under Review.
 
 ![framework](img/framework.png)  
 
