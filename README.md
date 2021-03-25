@@ -7,7 +7,7 @@ This repository is the implementation of the deep reinforced framework for stand
 International Conference on Medical Image Computing and Computer Assisted Intervention, 2019. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_33) [[arXiv]](https://arxiv.org/abs/1910.04331)  
 **Agent with Warm Start and Adaptive Dynamic Termination for Plane Localization in 3D Ultrasound**   
 *Xin Yang, Haoran Dou, Ruobing Huang, Wufeng Xue, Yuhao Huang, Jikuan Qian, Yuanji Zhang, Huanjia Luo, Huizhi Guo, Tianfu Wang, Yi Xiong, and Dong Ni.*  
-Under Review.
+IEEE Transactions on Medical Imaging.
 
 ![framework](img/framework.png)  
 
