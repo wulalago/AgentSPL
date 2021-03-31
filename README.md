@@ -7,7 +7,7 @@ This repository is the implementation of the deep reinforced framework for stand
 International Conference on Medical Image Computing and Computer Assisted Intervention, 2019. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_33) [[arXiv]](https://arxiv.org/abs/1910.04331)  
 **Agent with Warm Start and Adaptive Dynamic Termination for Plane Localization in 3D Ultrasound**   
 *Xin Yang, Haoran Dou, Ruobing Huang, Wufeng Xue, Yuhao Huang, Jikuan Qian, Yuanji Zhang, Huanjia Luo, Huizhi Guo, Tianfu Wang, Yi Xiong, and Dong Ni.*  
-IEEE Transactions on Medical Imaging.
+IEEE Transactions on Medical Imaging. [[Paper]](https://ieeexplore.ieee.org/document/9389756) [[arXiv]](https://arxiv.org/abs/2103.14502)
 
 ![framework](img/framework.png)  
 
@@ -28,4 +28,14 @@ If this work is helpful for you, please cite our paper as follows:
   organization={Springer}
 }
 ```
-
+```
+@ARTICLE{9389756,
+  author={X. {Yang} and H. {Dou} and R. {Huang} and W. {Xue} and Y. {Huang} and J. {Qian} and Y. {Zhang} and H. {Luo} and H. {Guo} and T. {Wang} and Y. {Xiong} and D. {Ni}},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Agent with Warm Start and Adaptive Dynamic Termination for Plane Localization in 3D Ultrasound}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TMI.2021.3069663}}
+```
