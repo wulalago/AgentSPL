@@ -34,6 +34,9 @@ The data folder should be placed as following:
 ### Training
 run the main.py directly.
 
+### Generate the training samples for RNN(termination)
+run the create_training_sample.py directly.
+
 
 ## Citation  
 If this work is helpful for you, please cite our paper as follows:   
