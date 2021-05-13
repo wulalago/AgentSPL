@@ -38,7 +38,7 @@ run the main.py directly.
 run the create_training_sample.py directly.
 
 ## Results
-![results](img/results.jpg)
+![results](img/result.jpg)
 
 ## Citation  
 If this work is helpful for you, please cite our paper as follows:   
