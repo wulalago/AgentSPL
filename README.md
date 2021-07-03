@@ -54,12 +54,12 @@ If this work is helpful for you, please cite our paper as follows:
 ```
 ```
 @ARTICLE{9389756,
-  author={X. {Yang} and H. {Dou} and R. {Huang} and W. {Xue} and Y. {Huang} and J. {Qian} and Y. {Zhang} and H. {Luo} and H. {Guo} and T. {Wang} and Y. {Xiong} and D. {Ni}},
+  author={Yang, Xin and Dou, Haoran and Huang, Ruobing and Xue, Wufeng and Huang, Yuhao and Qian, Jikuan and Zhang, Yuanji and Luo, Huanjia and Guo, Huizhi and Wang, Tianfu and Xiong, Yi and Ni, Dong},
   journal={IEEE Transactions on Medical Imaging}, 
-  title={Agent with Warm Start and Adaptive Dynamic Termination for Plane Localization in 3D Ultrasound}, 
+  title={Agent With Warm Start and Adaptive Dynamic Termination for Plane Localization in 3D Ultrasound}, 
   year={2021},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={40},
+  number={7},
+  pages={1950-1961},
   doi={10.1109/TMI.2021.3069663}}
 ```
