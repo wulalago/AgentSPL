@@ -31,6 +31,9 @@ The data folder should be placed as following:
   --- list_val.txt  
   --- list_test.txt  
 ```
+Folder 'example_data' stores an example volume (fake_data.nii.gz), plane parameter file (info.npz) and visual cross-section (data_three.png).
+
+
 ### Training
 run the main.py directly.
 
